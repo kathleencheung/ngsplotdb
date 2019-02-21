@@ -1,3 +1,8 @@
+**21/02/2019**
+Added Rat genome (Rn6) annotation. Specified in data/db_list_Rn6.txt.
+Ran: genDB.sh db_list_Rn6.txt animal.json
+Then install liike this: ngsplotdb.py install ngsplotdb_rn6_95_3.00.tar.gz 
+
 It is the pipeline for annotations of ensembl and UCSC.
 Copied and modified from our ensembl database pipeline.
 
